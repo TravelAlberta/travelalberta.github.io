@@ -1,1 +1,200 @@
-"A","B","C","D"
+﻿Id,Name,CategoryId,City,HealthPoints
+8106,Alpenglow Escapes,Categories/1,Crowsnest Pass,52
+7116,Goat Mountain Get-A-Way,Categories/1,Crowsnest Pass,59.75
+7189,Adanac Adventures,Categories/1,Crowsnest Pass,51
+7557,Flint Rock Ranch,Categories/1,Pincher Creek,50
+6161,Econo Lodge Fox Creek,Categories/1,Fox Creek,46.25
+10858,Foremost Wayside Campground,Categories/1,Lethbridge,50
+6764,Columbine House,Categories/1,Jasper,66
+5523,Mountain View Inn and Suites,Categories/1,Sundre,59.75
+7082,Castle Mountain Ski Lodge,Categories/1,Pincher Creek,31.25
+5686,Actor's Studio Bed and Breakfast,Categories/1,Rosebud,38.5
+11606,Heart of the Rockies retreat,Categories/1,Canmore,65
+4617,"English Bed, Breakfast & Day Spa",Categories/1,Calgary,65
+10960,Mighty Peace Golf Club Campground ,Categories/1,Peace River,67
+10524,Brooks Creek Ranch,Categories/1,Fernie,53
+13329,Mandala Cottage BnB,Categories/1,Peace River,50
+13609,test,Categories/1,Alberta Beach,0
+3558,Prairie Breeze RV & Camping,Categories/1,Wetaskiwin,47.25
+13745,Mulhurst Camp,Categories/1,Mulhurst,37.5
+9710,Quality Inn West Edmonton,Categories/1,Edmonton,65
+13167,Pine Lake Leisure,Categories/1,Pine Lake,50
+7533,Heartland Hotel Ltd,Categories/1,Lamont,65
+10287,Klemme House Bed and Breakfast,Categories/1,Camrose,65
+7725,Good Knights' Medieval Encampment,Categories/1,Three Hills,68
+7087,Stepping Stone Cabins B&B,Categories/1,Beaver Mines,53.5
+9882,River Ranche Lodge,Categories/1,Siksika,50
+13942,Nestled In The Pines,Categories/1,Stettler,66
+13956,Wayne Community Association,Categories/1,Wayne,50
+13948,Betty's BnB,Categories/1,Calgary,31.25
+9231,B&B on Balsam,Categories/1,Jasper,50
+10251,Pines Motel,Categories/1,Hinton,65
+1554,Dinosaur Campground,Categories/1,Brooks,69
+6323,B and B with a Twist,Categories/1,Medicine Hat,38.5
+7438,Island View Campground,Categories/1,Pincher Creek,29
+5578,Potters Hand Campground Inc.,Categories/1,Valleyview,51
+13386,Banff Voyager Inn,Categories/1,Banff,50
+13164,Harmon Valley Park and Campground,Categories/1,Nampa,51
+5480,Paddle River Dam Campground,Categories/1,Rochfort Bridge,50
+5437,Lessard Lake Public Campground,Categories/1,Cherhill,50
+14219,YMCA Camp Elkwater,Categories/1,Elkwater,50
+5472,Nature's Hideaway Family Campground,Categories/1,Foothills,46.25
+8271,Luxury All Suites Bed and Breakfast,Categories/1,Edson,51
+5532,Del's B&B,Categories/1,Drumheller,65
+5601,Wingate by Wyndham Calgary South,Categories/1,Calgary,65
+5181,Comfort Inn and Suites Bonnyville,Categories/1,Bonnyville,66
+6836,Copper Roof Rentals - Maple Leaf,Categories/1,Crowsnest Pass,50
+5222,Goodwin Meadows RV Resort ,Categories/1,Whitecourt,7.25
+7284,Pine Valley Centre,Categories/1,Tawatinaw,52
+7731,Grande Cache Inn and Suites,Categories/1,Grande Cache,41
+6170,Coaldale Inn,Categories/1,Coaldale,66
+7328,Best Western Plus Okotoks Inn and Suites,Categories/1,Okotoks,58.75
+7472,Tune & Toon B & B,Categories/1,Eckville,50
+6196,Bodina Resort,Categories/1,Bonnyville,50
+5522,O hotel suites,Categories/1,Calgary,32.25
+14251,Three Hills Campground,Categories/1,Three Hills,43.75
+8211,"11 Bridges Campground, RV and Cozy Cabin Park",Categories/1,Rosedale,51
+7440,Devonshire Short-Stay Campground,Categories/1,Slave Lake,29
+10253,Four Points by Sheraton Grande Prairie,Categories/1,Grande Prairie,66
+5225,Grande Prairie Rotary Campground,Categories/1,Grande Prairie,65
+10142,Hampton Inn & Suites Grande Prairie,Categories/1,Grande Prairie,68
+5242,Sandman Hotel & Suites Edmonton West,Categories/1,Edmonton,68
+5298,Sandman Signature Edmonton South Hotel,Categories/1,Edmonton,68
+5042,Best Western Premier Calgary Plaza Hotel & Conference Centre,Categories/1,Calgary,98
+5595,Prairie Junction R.V. Resort,Categories/1,Stettler,51
+14386,Nitehawk Wilderness RV Park,Categories/1,Grande Prairie,31.25
+10186,Changing Seasons Bed and Breakfast,Categories/1,Nanton,67
+13226,Craftsman House Bed & Breakfast,Categories/1,Bragg Creek,65
+13618,Idle Spurs Log Cabin Bed and Breakfast,Categories/1,Black Diamond,50
+13643,Rendezvous Ranch B&B,Categories/1,Nanton,66
+4673,Serenity Hillside Bed and Breakfast,Categories/1,Cremona,51
+7854,Sleepy Creek Country Manor,Categories/1,Bragg Creek,65
+9046,Kruger's Guest House,Categories/1,Bragg Creek,50
+4655,Grand Rapids Wilderness Adventures,Categories/1,Athabasca,53
+7468,Threepoint Campground,Categories/1,Bragg Creek,29
+5690,Halkirk Recreation and Rodeo Grounds Campground,Categories/1,Halkirk,12.5
+5493,Centennial Park Campground ,Categories/1,Killam,31.25
+5490,Edgerton Day Campground ,Categories/1,Daysland,31.25
+5477,Edgerton Sand Castle Campground ,Categories/1,Edgerton,50
+5509,Huber Dam,Categories/1,Castor,25
+5516,Burma Park ,Categories/1,Brownfield,25
+5508,Berry Street Campground ,Categories/1,Halkirk,18.75
+5484,Coronation Dam Campground ,Categories/1,Coronation,50
+5491,Alliance Recreation Grounds Campground ,Categories/1,Alliance,25
+5515,Castor Lions Campground ,Categories/1,Castor,25
+7081,Beaujolais Boutique B&B at Thea's House,Categories/1,Banff,65
+9225,Banff Boundary Lodge ,Categories/1,Harvie Heights,65
+9195,The Summit at Grande Rockies ,Categories/1,Canmore,65
+14384,TownePlace Suites by Marriott,Categories/1,Fort McMurray,66
+14387,Microtel Inn & Suites by Wyndham Whitecourt,Categories/1,Whitecourt,65
+14388,Microtel Inn & Suites by Wyndham Bonnyville,Categories/1,Bonnyville,65
+1705,Strawberry Equestrian Campground,Categories/1,Longview,29
+4664,Town of Stettler Campground,Categories/1,Stettler,43.75
+7285,Super 8 Hotel & Suites Cochrane,Categories/1,Cochrane,65
+14443,Grassy Lake Community Campground,Categories/1,Grassy Lake,50
+5675,Cold Lake M.D. Campground,Categories/1,Cold Lake,53
+5680,Crane Lake West M.D. Park ,Categories/1,Cold Lake,53
+5684,Pelican Point M.D. Park Moose Lake,Categories/1,Bonnyville,53
+5691,Muriel Lake M.D. Park,Categories/1,Bonnyville,53
+5694,Minnie Lake M.D. Park East,Categories/1,Bonnyville,53
+5695,Minnie Lake M.D. Park West,Categories/1,Bonnyville,53
+5696,Chicken Hill Lake M.D. Park,Categories/1,Bonnyville,53
+5698,Crane Lake East M.D. Park,Categories/1,Cold Lake,53
+5884,Wolf Lake M.D. Park ,Categories/1,Bonnyville,53
+7022,Willey West Campground,Categories/1,Drayton Valley,50
+13613,Staybridge Suites Red Deer North,Categories/1,Red Deer,46.75
+8361,Clarion Hotel and Conference Centre,Categories/1,Sherwood Park,50
+13172,The Malcolm Hotel,Categories/1,Canmore,67
+7467,Beauvais Walk-In Tenting Campground,Categories/1,Pincher Creek,41.5
+13617,Cool Toyz Ice Fishing Hut Rentals,Categories/1,Sylvan Lake,65
+1553,Dillberry Lake Campground,Categories/1,Chauvin,54
+1527,Castle River Bridge Campground,Categories/1,Crowsnest Pass,47.75
+1505,Beaver Mines Lake Campground,Categories/1,Crowsnest Pass,35.25
+1548,Reesor Dock Campground,Categories/1,Medicine Hat,35.25
+1676,Queen Elizabeth Campground,Categories/1,Grimshaw,29
+1736,Williamson Campground,Categories/1,Valleyview,29
+1571,Fawcett Lake Campground,Categories/1,Slave Lake,4
+1671,Zeiner Campground,Categories/1,Wetaskiwin,29
+1610,Lake McGregor Campground,Categories/1,Vulcan,29
+1584,Dickson Point Campground,Categories/1,Innisfail,29
+1585,North Dyke Campground,Categories/1,Innisfail,4
+1586,South Dyke Campground,Categories/1,Innisfail,29
+1707,Sulphur Lake Campground,Categories/1,Dixonville,29
+1597,Hornbeck Creek Campground,Categories/1,Edson,29
+1600,Iosegun Lake Campground,Categories/1,Fox Creek,29
+1725,Waterton Reservoir Campground,Categories/1,Pincher Creek,29
+1545,Lakeview Campground,Categories/1,Medicine Hat,41.5
+1651,Oldman River Campground,Categories/1,Fort Macleod,29
+1589,Gooseberry Lake Campground,Categories/1,Consort,54
+1519,Buck Lake Campground,Categories/1,Winfield,4
+1583,Ghost Reservoir Campground,Categories/1,Cochrane,4
+1692,Sandy McNabb Campground,Categories/1,Turner Valley,29
+1691,Bluerock Equestrian Campground,Categories/1,Turner Valley,29
+1690,Bluerock Campground,Categories/1,Turner Valley,35.25
+1633,Mesa Butte Equestrian Campground,Categories/1,Bragg Creek,54
+1630,McLean Creek Campground,Categories/1,Bragg Creek,29
+1621,Little Elbow Equestrian Campground,Categories/1,Bragg Creek,29
+1620,Little Elbow Campground,Categories/1,Bragg Creek,54
+1599,Indian Graves Equestrian Campground,Categories/1,Longview,54
+1598,Indian Graves Campground,Categories/1,Longview,47.75
+1590,Greenford Campground,Categories/1,Longview,29
+1709,Swan Lake Campground,Categories/1,Rocky Mountain House,29
+1737,Winagami Lake Campground,Categories/1,High Prairie,29
+1735,Jarvis Lake Campground,Categories/1,Hinton,54
+9161,Halfway Campground,Categories/1,Hinton,29
+1637,Miquelon Lake Provincial Park Comfort Camping,Categories/1,Edmonton,54
+1734,Gregg Lake Campground,Categories/1,Hinton,29
+1732,Cache Lake Campground,Categories/1,Hinton,29
+1592,Hangingstone Campground,Categories/1,Fort McMurray,29
+1655,Payne Lake Campground,Categories/1,Cardston,29
+1674,Police Outpost Campground,Categories/1,Cardston,29
+1529,Chain Lakes Campground,Categories/1,Nanton,47.75
+1587,Goldeye Lake Campground,Categories/1,Nordegg,29
+1556,Dry Haven Campground,Categories/1,Nordegg,29
+1524,Carson-Pegasus Campground,Categories/1,Whitecourt,35.25
+1537,Twin Lakes Campground,Categories/1,Rocky Mountain House,29
+1739,Wolf Lake West Campground,Categories/1,Edson,29
+1675,Prairie Creek Campground,Categories/1,Rocky Mountain House,4
+1668,Phyllis Lake Campground,Categories/1,Rocky Mountain House,29
+1619,Little Bow Reservoir Campground,Categories/1,Vulcan,29
+1654,Park Lake Campground,Categories/1,Lethbridge,35.25
+1638,Mitchell Lake Campground,Categories/1,Rocky Mountain House,29
+1564,Elk Creek Campground,Categories/1,Rocky Mountain House,29
+1740,Writing-on-Stone Campground,Categories/1,Lethbridge,54
+1670,Pigeon Lake Campground,Categories/1,Wetaskiwin,29
+1728,Ross Lake Campground,Categories/1,Elk Point,29
+1713,Thunder Lake Campground,Categories/1,Barrhead,29
+1593,Harlech Campground,Categories/1,Nordegg,29
+1596,Horburg Campground,Categories/1,Rocky Mountain House,29
+1602,Jackfish Lake Campground,Categories/1,Rocky Mountain House,29
+1609,Two O Clock Creek Campground,Categories/1,Nordegg,29
+1625,Lovett River Campground,Categories/1,Robb,29
+1631,McLeod River Campground,Categories/1,Hinton,41.5
+1632,Medicine Lake Campground,Categories/1,Rocky Mountain House,29
+1510,Bow River Campground,Categories/1,Canmore,35.25
+1642,Nojack Campground,Categories/1,Nojack,4
+1744,Young's Point Campground,Categories/1,Valleyview,29
+1535,Crescent Falls Campground,Categories/1,Nordegg,54
+1741,Writing-on-Stone Provincial Park Comfort Camping,Categories/1,Lethbridge,35.25
+1743,Wyndham-Carseland Provincial Park Comfort Camping,Categories/1,Carseland,29
+1541,Beaver Creek Campground,Categories/1,Medicine Hat,35.25
+1546,Lodgepole Campground,Categories/1,Medicine Hat,29
+1543,Ferguson Hill Campground,Categories/1,Medicine Hat,35.25
+1542,Elkwater Campground,Categories/1,Medicine Hat,35.25
+1547,Old Baldy Campground,Categories/1,Medicine Hat,35.25
+1551,Dawson Equestrian Campground,Categories/1,Canmore,29
+1708,Emerson Lakes Campground,Categories/1,Hinton,29
+1712,Thompson Creek Campground,Categories/1,Nordegg,29
+1664,Lower Lake Walk-In Tenting Campground,Categories/1,Canmore,29
+1715,Trapper Leas Cabin Campground,Categories/1,Swan Hills,29
+1726,Watson Creek Campground,Categories/1,Robb,29
+1727,Whitehorse Creek Campground,Categories/1,Robb,54
+7439,Spring Creek Equestrian Campground,Categories/1,Medicine Hat,29
+1612,Seibert Lake Campground,Categories/1,Lac La Biche,29
+1622,Little Fish Lake Campground,Categories/1,Drumheller,4
+1700,Spray Lakes West Campground,Categories/1,Canmore,29
+1549,Reesor Lake Campground,Categories/1,Medicine Hat,35.25
+1742,Wyndham-Carseland Campground,Categories/1,Carseland,29
+1618,Little Bow Campground,Categories/1,Vulcan,29
+1702,St. Mary Upper Campground,Categories/1,Lethbridge,29
+1681,Red Deer River South Campground,Categories/1,Sundre,29
