@@ -1,200 +1,206 @@
-﻿Id,Name,CategoryId,City,HealthPoints
-8106,Alpenglow Escapes,Categories/1,Crowsnest Pass,52
-7116,Goat Mountain Get-A-Way,Categories/1,Crowsnest Pass,59.75
-7189,Adanac Adventures,Categories/1,Crowsnest Pass,51
-7557,Flint Rock Ranch,Categories/1,Pincher Creek,50
-6161,Econo Lodge Fox Creek,Categories/1,Fox Creek,46.25
-10858,Foremost Wayside Campground,Categories/1,Lethbridge,50
-6764,Columbine House,Categories/1,Jasper,66
-5523,Mountain View Inn and Suites,Categories/1,Sundre,59.75
-7082,Castle Mountain Ski Lodge,Categories/1,Pincher Creek,31.25
-5686,Actor's Studio Bed and Breakfast,Categories/1,Rosebud,38.5
-11606,Heart of the Rockies retreat,Categories/1,Canmore,65
-4617,"English Bed, Breakfast & Day Spa",Categories/1,Calgary,65
-10960,Mighty Peace Golf Club Campground ,Categories/1,Peace River,67
-10524,Brooks Creek Ranch,Categories/1,Fernie,53
-13329,Mandala Cottage BnB,Categories/1,Peace River,50
-13609,test,Categories/1,Alberta Beach,0
-3558,Prairie Breeze RV & Camping,Categories/1,Wetaskiwin,47.25
-13745,Mulhurst Camp,Categories/1,Mulhurst,37.5
-9710,Quality Inn West Edmonton,Categories/1,Edmonton,65
-13167,Pine Lake Leisure,Categories/1,Pine Lake,50
-7533,Heartland Hotel Ltd,Categories/1,Lamont,65
-10287,Klemme House Bed and Breakfast,Categories/1,Camrose,65
-7725,Good Knights' Medieval Encampment,Categories/1,Three Hills,68
-7087,Stepping Stone Cabins B&B,Categories/1,Beaver Mines,53.5
-9882,River Ranche Lodge,Categories/1,Siksika,50
-13942,Nestled In The Pines,Categories/1,Stettler,66
-13956,Wayne Community Association,Categories/1,Wayne,50
-13948,Betty's BnB,Categories/1,Calgary,31.25
-9231,B&B on Balsam,Categories/1,Jasper,50
-10251,Pines Motel,Categories/1,Hinton,65
-1554,Dinosaur Campground,Categories/1,Brooks,69
-6323,B and B with a Twist,Categories/1,Medicine Hat,38.5
-7438,Island View Campground,Categories/1,Pincher Creek,29
-5578,Potters Hand Campground Inc.,Categories/1,Valleyview,51
-13386,Banff Voyager Inn,Categories/1,Banff,50
-13164,Harmon Valley Park and Campground,Categories/1,Nampa,51
-5480,Paddle River Dam Campground,Categories/1,Rochfort Bridge,50
-5437,Lessard Lake Public Campground,Categories/1,Cherhill,50
-14219,YMCA Camp Elkwater,Categories/1,Elkwater,50
-5472,Nature's Hideaway Family Campground,Categories/1,Foothills,46.25
-8271,Luxury All Suites Bed and Breakfast,Categories/1,Edson,51
-5532,Del's B&B,Categories/1,Drumheller,65
-5601,Wingate by Wyndham Calgary South,Categories/1,Calgary,65
-5181,Comfort Inn and Suites Bonnyville,Categories/1,Bonnyville,66
-6836,Copper Roof Rentals - Maple Leaf,Categories/1,Crowsnest Pass,50
-5222,Goodwin Meadows RV Resort ,Categories/1,Whitecourt,7.25
-7284,Pine Valley Centre,Categories/1,Tawatinaw,52
-7731,Grande Cache Inn and Suites,Categories/1,Grande Cache,41
-6170,Coaldale Inn,Categories/1,Coaldale,66
-7328,Best Western Plus Okotoks Inn and Suites,Categories/1,Okotoks,58.75
-7472,Tune & Toon B & B,Categories/1,Eckville,50
-6196,Bodina Resort,Categories/1,Bonnyville,50
-5522,O hotel suites,Categories/1,Calgary,32.25
-14251,Three Hills Campground,Categories/1,Three Hills,43.75
-8211,"11 Bridges Campground, RV and Cozy Cabin Park",Categories/1,Rosedale,51
-7440,Devonshire Short-Stay Campground,Categories/1,Slave Lake,29
-10253,Four Points by Sheraton Grande Prairie,Categories/1,Grande Prairie,66
-5225,Grande Prairie Rotary Campground,Categories/1,Grande Prairie,65
-10142,Hampton Inn & Suites Grande Prairie,Categories/1,Grande Prairie,68
-5242,Sandman Hotel & Suites Edmonton West,Categories/1,Edmonton,68
-5298,Sandman Signature Edmonton South Hotel,Categories/1,Edmonton,68
-5042,Best Western Premier Calgary Plaza Hotel & Conference Centre,Categories/1,Calgary,98
-5595,Prairie Junction R.V. Resort,Categories/1,Stettler,51
-14386,Nitehawk Wilderness RV Park,Categories/1,Grande Prairie,31.25
-10186,Changing Seasons Bed and Breakfast,Categories/1,Nanton,67
-13226,Craftsman House Bed & Breakfast,Categories/1,Bragg Creek,65
-13618,Idle Spurs Log Cabin Bed and Breakfast,Categories/1,Black Diamond,50
-13643,Rendezvous Ranch B&B,Categories/1,Nanton,66
-4673,Serenity Hillside Bed and Breakfast,Categories/1,Cremona,51
-7854,Sleepy Creek Country Manor,Categories/1,Bragg Creek,65
-9046,Kruger's Guest House,Categories/1,Bragg Creek,50
-4655,Grand Rapids Wilderness Adventures,Categories/1,Athabasca,53
-7468,Threepoint Campground,Categories/1,Bragg Creek,29
-5690,Halkirk Recreation and Rodeo Grounds Campground,Categories/1,Halkirk,12.5
-5493,Centennial Park Campground ,Categories/1,Killam,31.25
-5490,Edgerton Day Campground ,Categories/1,Daysland,31.25
-5477,Edgerton Sand Castle Campground ,Categories/1,Edgerton,50
-5509,Huber Dam,Categories/1,Castor,25
-5516,Burma Park ,Categories/1,Brownfield,25
-5508,Berry Street Campground ,Categories/1,Halkirk,18.75
-5484,Coronation Dam Campground ,Categories/1,Coronation,50
-5491,Alliance Recreation Grounds Campground ,Categories/1,Alliance,25
-5515,Castor Lions Campground ,Categories/1,Castor,25
-7081,Beaujolais Boutique B&B at Thea's House,Categories/1,Banff,65
-9225,Banff Boundary Lodge ,Categories/1,Harvie Heights,65
-9195,The Summit at Grande Rockies ,Categories/1,Canmore,65
-14384,TownePlace Suites by Marriott,Categories/1,Fort McMurray,66
-14387,Microtel Inn & Suites by Wyndham Whitecourt,Categories/1,Whitecourt,65
-14388,Microtel Inn & Suites by Wyndham Bonnyville,Categories/1,Bonnyville,65
-1705,Strawberry Equestrian Campground,Categories/1,Longview,29
-4664,Town of Stettler Campground,Categories/1,Stettler,43.75
-7285,Super 8 Hotel & Suites Cochrane,Categories/1,Cochrane,65
-14443,Grassy Lake Community Campground,Categories/1,Grassy Lake,50
-5675,Cold Lake M.D. Campground,Categories/1,Cold Lake,53
-5680,Crane Lake West M.D. Park ,Categories/1,Cold Lake,53
-5684,Pelican Point M.D. Park Moose Lake,Categories/1,Bonnyville,53
-5691,Muriel Lake M.D. Park,Categories/1,Bonnyville,53
-5694,Minnie Lake M.D. Park East,Categories/1,Bonnyville,53
-5695,Minnie Lake M.D. Park West,Categories/1,Bonnyville,53
-5696,Chicken Hill Lake M.D. Park,Categories/1,Bonnyville,53
-5698,Crane Lake East M.D. Park,Categories/1,Cold Lake,53
-5884,Wolf Lake M.D. Park ,Categories/1,Bonnyville,53
-7022,Willey West Campground,Categories/1,Drayton Valley,50
-13613,Staybridge Suites Red Deer North,Categories/1,Red Deer,46.75
-8361,Clarion Hotel and Conference Centre,Categories/1,Sherwood Park,50
-13172,The Malcolm Hotel,Categories/1,Canmore,67
-7467,Beauvais Walk-In Tenting Campground,Categories/1,Pincher Creek,41.5
-13617,Cool Toyz Ice Fishing Hut Rentals,Categories/1,Sylvan Lake,65
-1553,Dillberry Lake Campground,Categories/1,Chauvin,54
-1527,Castle River Bridge Campground,Categories/1,Crowsnest Pass,47.75
-1505,Beaver Mines Lake Campground,Categories/1,Crowsnest Pass,35.25
-1548,Reesor Dock Campground,Categories/1,Medicine Hat,35.25
-1676,Queen Elizabeth Campground,Categories/1,Grimshaw,29
-1736,Williamson Campground,Categories/1,Valleyview,29
-1571,Fawcett Lake Campground,Categories/1,Slave Lake,4
-1671,Zeiner Campground,Categories/1,Wetaskiwin,29
-1610,Lake McGregor Campground,Categories/1,Vulcan,29
-1584,Dickson Point Campground,Categories/1,Innisfail,29
-1585,North Dyke Campground,Categories/1,Innisfail,4
-1586,South Dyke Campground,Categories/1,Innisfail,29
-1707,Sulphur Lake Campground,Categories/1,Dixonville,29
-1597,Hornbeck Creek Campground,Categories/1,Edson,29
-1600,Iosegun Lake Campground,Categories/1,Fox Creek,29
-1725,Waterton Reservoir Campground,Categories/1,Pincher Creek,29
-1545,Lakeview Campground,Categories/1,Medicine Hat,41.5
-1651,Oldman River Campground,Categories/1,Fort Macleod,29
-1589,Gooseberry Lake Campground,Categories/1,Consort,54
-1519,Buck Lake Campground,Categories/1,Winfield,4
-1583,Ghost Reservoir Campground,Categories/1,Cochrane,4
-1692,Sandy McNabb Campground,Categories/1,Turner Valley,29
-1691,Bluerock Equestrian Campground,Categories/1,Turner Valley,29
-1690,Bluerock Campground,Categories/1,Turner Valley,35.25
-1633,Mesa Butte Equestrian Campground,Categories/1,Bragg Creek,54
-1630,McLean Creek Campground,Categories/1,Bragg Creek,29
-1621,Little Elbow Equestrian Campground,Categories/1,Bragg Creek,29
-1620,Little Elbow Campground,Categories/1,Bragg Creek,54
-1599,Indian Graves Equestrian Campground,Categories/1,Longview,54
-1598,Indian Graves Campground,Categories/1,Longview,47.75
-1590,Greenford Campground,Categories/1,Longview,29
-1709,Swan Lake Campground,Categories/1,Rocky Mountain House,29
-1737,Winagami Lake Campground,Categories/1,High Prairie,29
-1735,Jarvis Lake Campground,Categories/1,Hinton,54
-9161,Halfway Campground,Categories/1,Hinton,29
-1637,Miquelon Lake Provincial Park Comfort Camping,Categories/1,Edmonton,54
-1734,Gregg Lake Campground,Categories/1,Hinton,29
-1732,Cache Lake Campground,Categories/1,Hinton,29
-1592,Hangingstone Campground,Categories/1,Fort McMurray,29
-1655,Payne Lake Campground,Categories/1,Cardston,29
-1674,Police Outpost Campground,Categories/1,Cardston,29
-1529,Chain Lakes Campground,Categories/1,Nanton,47.75
-1587,Goldeye Lake Campground,Categories/1,Nordegg,29
-1556,Dry Haven Campground,Categories/1,Nordegg,29
-1524,Carson-Pegasus Campground,Categories/1,Whitecourt,35.25
-1537,Twin Lakes Campground,Categories/1,Rocky Mountain House,29
-1739,Wolf Lake West Campground,Categories/1,Edson,29
-1675,Prairie Creek Campground,Categories/1,Rocky Mountain House,4
-1668,Phyllis Lake Campground,Categories/1,Rocky Mountain House,29
-1619,Little Bow Reservoir Campground,Categories/1,Vulcan,29
-1654,Park Lake Campground,Categories/1,Lethbridge,35.25
-1638,Mitchell Lake Campground,Categories/1,Rocky Mountain House,29
-1564,Elk Creek Campground,Categories/1,Rocky Mountain House,29
-1740,Writing-on-Stone Campground,Categories/1,Lethbridge,54
-1670,Pigeon Lake Campground,Categories/1,Wetaskiwin,29
-1728,Ross Lake Campground,Categories/1,Elk Point,29
-1713,Thunder Lake Campground,Categories/1,Barrhead,29
-1593,Harlech Campground,Categories/1,Nordegg,29
-1596,Horburg Campground,Categories/1,Rocky Mountain House,29
-1602,Jackfish Lake Campground,Categories/1,Rocky Mountain House,29
-1609,Two O Clock Creek Campground,Categories/1,Nordegg,29
-1625,Lovett River Campground,Categories/1,Robb,29
-1631,McLeod River Campground,Categories/1,Hinton,41.5
-1632,Medicine Lake Campground,Categories/1,Rocky Mountain House,29
-1510,Bow River Campground,Categories/1,Canmore,35.25
-1642,Nojack Campground,Categories/1,Nojack,4
-1744,Young's Point Campground,Categories/1,Valleyview,29
-1535,Crescent Falls Campground,Categories/1,Nordegg,54
-1741,Writing-on-Stone Provincial Park Comfort Camping,Categories/1,Lethbridge,35.25
-1743,Wyndham-Carseland Provincial Park Comfort Camping,Categories/1,Carseland,29
-1541,Beaver Creek Campground,Categories/1,Medicine Hat,35.25
-1546,Lodgepole Campground,Categories/1,Medicine Hat,29
-1543,Ferguson Hill Campground,Categories/1,Medicine Hat,35.25
-1542,Elkwater Campground,Categories/1,Medicine Hat,35.25
-1547,Old Baldy Campground,Categories/1,Medicine Hat,35.25
-1551,Dawson Equestrian Campground,Categories/1,Canmore,29
-1708,Emerson Lakes Campground,Categories/1,Hinton,29
-1712,Thompson Creek Campground,Categories/1,Nordegg,29
-1664,Lower Lake Walk-In Tenting Campground,Categories/1,Canmore,29
-1715,Trapper Leas Cabin Campground,Categories/1,Swan Hills,29
-1726,Watson Creek Campground,Categories/1,Robb,29
-1727,Whitehorse Creek Campground,Categories/1,Robb,54
-7439,Spring Creek Equestrian Campground,Categories/1,Medicine Hat,29
-1612,Seibert Lake Campground,Categories/1,Lac La Biche,29
-1622,Little Fish Lake Campground,Categories/1,Drumheller,4
-1700,Spray Lakes West Campground,Categories/1,Canmore,29
-1549,Reesor Lake Campground,Categories/1,Medicine Hat,35.25
-1742,Wyndham-Carseland Campground,Categories/1,Carseland,29
-1618,Little Bow Campground,Categories/1,Vulcan,29
-1702,St. Mary Upper Campground,Categories/1,Lethbridge,29
-1681,Red Deer River South Campground,Categories/1,Sundre,29
+﻿Id,CategoryId,CategoryTypeId,City,Region,LocationDescription,Url,HealthPoints,GreenKeyRating,Status,RevisionNumber,OriginalPublishedDate,LinkName,ClientId,Name,IsDataProvider
+8106,1,23,Crowsnest Pass,Alberta,,http://alpenglowescapes.ca/,52,0,Published,4,2017-05-23T19:52:38.5623773Z,alpenglow-escapes,cde3645cc-31da-2b31-83d4-067c8f600bcf,Alpenglow Escapes,FALSE
+7116,1,18,Crowsnest Pass,Alberta,,http://www.goatmountain.ca,59.75,0,Published,10,2016-12-20T23:51:02.5316109Z,goat-mountain-get-a-way,cc88ef27d-60ee-3715-4e44-53322ebf8b91,Goat Mountain Get-A-Way,FALSE
+7189,1,18,Crowsnest Pass,Alberta,,http://adanacadventures.com/,51,0,Published,4,2017-01-27T16:37:46.2222531Z,adanac-adventures,c2e39fab1-fc4a-2be5-0d5f-671ab453e200,Adanac Adventures,FALSE
+7557,1,18,Pincher Creek,Alberta,,http://www.flintrockranch.com,50,0,Unpublished,1,2017-07-06T19:38:52.0419160Z,flint-rock-ranch,c8e288c7e-8b9a-7066-544c-e6caeb401766,Flint Rock Ranch,FALSE
+6161,1,16,Fox Creek,Alberta,,https://www.choicehotels.com/alberta/fox-creek/econo-lodge-hotels/cna77,46.25,0,Published,2,2017-07-07T17:23:52.0018467Z,econo-lodge-fox-creek,c099007b2-15ac-ac14-6978-7dff79164380,Econo Lodge Fox Creek,FALSE
+10858,1,21,Lethbridge,Alberta,,http://www.foremostalberta.com/tourism/foremost-campground,50,0,Published,1,2018-11-16T17:56:33.4555202Z,foremost-wayside-campground,cb418014a-e524-0006-b963-423ff65c1910,Foremost Wayside Campground,FALSE
+6764,1,19,Jasper,Alberta,,https://www.bbcanada.com/columbinehouse,66,0,Published,3,2017-07-07T17:59:14.1846836Z,columbine-house,c7a254057-6950-1d9a-ac44-299ee4b61ce6,Columbine House,FALSE
+5523,1,16,Sundre,Alberta,,https://www.mvisundre.com/,59.75,0,Published,8,2016-06-11T01:02:52.3366239Z,best-western-plus-mountainview-inn-and-suites,cf47cea89-2a1d-e90b-1012-d071b162615d,Mountain View Inn and Suites,FALSE
+7082,1,18,Pincher Creek,Alberta,"45km southwest of Pincher Creek via Hwy507 and Hwy774.
+
+Right at the base of Castle Mountain Resort",http://www.staycastle.ca,31.25,0,Published,8,2016-12-24T03:10:17.4034609Z,castle-mountain-ski-lodge,cb1b40ee3-1a1a-6f68-31af-ed3c27053190,Castle Mountain Ski Lodge,FALSE
+5686,1,19,Rosebud,Alberta,,https://actorstudiobandb.com/,38.5,0,Published,6,2016-07-22T21:54:38.8116845Z,actors-studio-bed-and-breakfast,c371b6ee4-c56a-a431-e22b-5e7e2a07351b,Actor's Studio Bed and Breakfast,FALSE
+11606,1,23,Canmore,Alberta,,https://www.airbnb.ca/users/76207116/listings?user_id=76207116&s=50,65,0,Published,1,2018-08-23T23:18:52.0263188Z,heart-of-the-rockies-retreat,c7d78455b-0018-9a8d-a332-d7b8ca9b63a2,Heart of the Rockies retreat,FALSE
+4617,1,19,Calgary,Alberta,,http://www.englishbb.com,65,0,Published,6,2016-04-11T22:04:22.7812757Z,wwwenglishbbcom,c46e253fc-2010-6a9f-6139-b84aa72cdad7,"English Bed, Breakfast & Day Spa",FALSE
+10960,1,21,Peace River,Alberta,"833056 Range Rd 231
+(2 km south of Highway 2)",https://www.mightypeacegolf.com,67,0,Published,1,2018-07-20T20:28:36.3333125Z,mighty-peace-golf-club-campground,c6065d5cb-c2c2-f5d0-0bdb-13dadc8308ee,Mighty Peace Golf Club Campground ,FALSE
+10524,1,19,Fernie,British Columbia,,https://brookscreekranch.com,53,0,Published,2,2018-06-15T23:00:37.3878162Z,brooks-creek-ranch,cf823572a-453c-3424-afb4-de0d8a990f2c,Brooks Creek Ranch,FALSE
+13329,1,19,Peace River,Alberta,,https://www.airbnb.ca/rooms/17127177?guests=1&adults=1,50,0,Published,1,2019-01-11T16:55:33.8969091Z,mandala-cottage-bnb,cecbf9313-98c8-3c0b-1c1d-cbc77816f6a4,Mandala Cottage BnB,FALSE
+13609,1,15,Alberta Beach,Alberta,,https://www.google.com,0,0,Archived,1,2019-02-01T17:24:52.9580943Z,test,c98d7aeb8-2abf-a7e6-b247-e52627362cbd,test,FALSE
+3558,1,21,Wetaskiwin,Alberta,,http://www.albertacampsites.com/moreinfo.php?campgrounds_id=355,47.25,0,Archived,8,2016-04-22T02:20:38.1776601Z,prairie-breeze-inn-rv-camping,,Prairie Breeze RV & Camping,FALSE
+13745,1,21,Mulhurst,Alberta,"Hwy 2, west on 616, south on 795, west on 616 to 4-way stop, south 2.5 km on RR 281",https://www.mulhurstcamp.ca/camp-options/rv-sites/,37.5,0,Published,1,2019-03-11T18:03:07.0081577Z,mulhurst-camp,c2e692d3b-86ab-f453-b258-fae49d00c196,Mulhurst Camp,FALSE
+9710,1,16,Edmonton,Alberta,,http://www.qualityinnwestedmonton.com,65,4,Published,2,2018-02-21T17:47:15.9038064Z,quality,ca86b536e-b100-4d66-663f-fb034d9cc5d9,Quality Inn West Edmonton,FALSE
+13167,1,21,Pine Lake,Alberta,,http://www.parkbridge.com/en-ca/rv-cottages/Pine-Lake-Leisure-Club,50,0,Published,1,2018-11-27T19:31:19.4902283Z,pine-lake-leisure,c78d7eb76-a406-cb08-3fad-14cca38fe1a1,Pine Lake Leisure,FALSE
+7533,1,16,Lamont,Alberta,,http://www.heartlandhotel.ca,65,0,Published,3,2017-03-27T18:19:19.9672569Z,heartland-hotel-ltd,cad9d1c7f-b339-4dbd-144a-d1801a267da1,Heartland Hotel Ltd,FALSE
+10287,1,19,Camrose,Alberta,,http://klemmehouse.ca,65,0,Published,5,2018-05-10T23:37:27.2914841Z,klemme-house-bed-and-breakfast,ca5a10d08-e688-11aa-5f2d-c94cff80f61b,Klemme House Bed and Breakfast,FALSE
+7725,1,19,Three Hills,Alberta,Located 10 km south of Three Hills - 1 km east of Highway 21 on Township 31-0.,https://www.goodknights.ca,68,0,Published,5,2017-06-06T20:56:57.8617822Z,good-knights-medieval-encampment,c04c1a474-4d78-07c2-8a5c-03676778d006,Good Knights' Medieval Encampment,FALSE
+7087,1,18,Beaver Mines,Alberta,,https://www.steppingstonecabins.ca,53.5,0,Published,7,2016-12-20T01:27:36.3782016Z,stepping-stone-cabins-bb,c903755c4-e490-be52-1275-a613516a2e5f,Stepping Stone Cabins B&B,FALSE
+9882,1,18,Siksika,Alberta,"Hwy 547E, Siksika Nation ",https://www.facebook.com/riverranchetourism/,50,0,Published,4,2018-02-28T00:25:13.4362425Z,river-ranche-lodge,cd9c76d40-1fec-994e-4ce3-921c557ff668,River Ranche Lodge,FALSE
+13942,1,18,Stettler,Alberta,,https://www.canadastays.com/p660003,66,0,Published,1,2019-04-02T16:09:03.2164297Z,nestled-in-the-pines,cfc4522fc-c332-9b89-c00d-ec9e755a378d,Nestled In The Pines,FALSE
+13956,1,21,Wayne,Alberta,8 miles SE of Drumheller in the community of Wayne on # 12 Atlas st. Located a 1/4 mile south of The Last Chance Saloon.,https://www.facebook.com/Wayne-Community-Association-255972734843483/,50,0,Published,1,2019-04-11T19:18:24.2319178Z,wayne-community-association,c3e024578-fe2b-1570-d5a8-1041efad5d25,Wayne Community Association,FALSE
+13948,1,19,Calgary,Alberta,,https://abnb.me/5ymYKrjpUV,31.25,0,Published,1,2019-04-15T14:41:17.2279115Z,bettys-bnb,c23309a76-0814-aad8-c8e3-ec751d82d0e6,Betty's BnB,FALSE
+9231,1,19,Jasper,Alberta,,https://www.bbcanada.com/5347.html,50,0,Published,2,2017-11-27T18:03:02.6817484Z,bb-on-balsam,cd6ffc6ca-1b11-5bed-f183-bb7581a1f963,B&B on Balsam,FALSE
+10251,1,16,Hinton,Alberta,,http://pinesmotel.business.site,65,0,Published,2,2018-05-01T14:32:57.8874101Z,pines-motel,c9aca01f6-f0b2-0702-3a72-46815d6ff9a1,Pines Motel,FALSE
+1554,1,21,Brooks,Alberta,"48 km northeast of Brooks
+19 km from the village of Patricia
+",https://www.albertaparks.ca/parks/south/dinosaur-pp/information-facilities/camping/dinosaur/,69,0,Published,16,2015-12-12T01:20:51.0989054Z,dinosaur-campground,,Dinosaur Campground,FALSE
+6323,1,19,Medicine Hat,Alberta,,http://peggygizenstudio.com/bb-with-a-twist/,38.5,0,Unpublished,4,2016-09-03T03:08:49.6555151Z,b-and-b-with-a-twist,c933db490-65a4-561d-6493-c373cad8755f,B and B with a Twist,FALSE
+7438,1,21,Pincher Creek,Alberta,13 km north of Pincher Creek on Hwy. 785,https://www.albertaparks.ca/albertaparksca/about-us/contact-us/,29,0,Unpublished,4,2017-03-22T18:42:36.1196200Z,island-view-campground,,Island View Campground,FALSE
+5578,1,21,Valleyview,Alberta,6.2 km south of Valleyview on Hwy 43. 2.4 km. east on 665. 3.6 km south on 221A.,http://www.PottersHandCampgroundInc.com,51,0,Published,8,2016-06-22T02:08:44.7260868Z,potters-hand-campground-inc,c4ac2b200-90e2-da78-95b0-f0f3ecb764b8,Potters Hand Campground Inc.,FALSE
+13386,1,16,Banff,Alberta,,http://www.banffvoyagerinn.com/,50,0,Published,1,2019-01-14T22:57:29.3483990Z,banff-voyager-inn,cd88f0a02-043d-164d-961e-2d26a39ce4ef,Banff Voyager Inn,FALSE
+13164,1,21,Nampa,Alberta,"Located 14 km north of Nampa on Highway 2, then 20 km east on Township Road 830. ",http://northernsunrise.net/,51,0,Published,1,2018-11-26T19:09:02.3622753Z,harmon-valley-park-and-campground,ceac5c0bf-3176-3b05-5bb4-6fe2aa73d294,Harmon Valley Park and Campground,FALSE
+5480,1,21,Rochfort Bridge,Alberta,"Hwy. 43, about 3 km south of Rochfort Bridge on Rng. Rd. 80. 
+",https://www.albertacampgroundguide.ca/campgrounds/paddle-river-dam-campground/?url=/campground/rochfort_bridge/paddle_river_dam_campground,50,0,Published,14,2016-06-02T21:53:51.0474381Z,paddle-river-dam-campground,c759f16b7-f812-475f-ec12-23c76a0aedbc,Paddle River Dam Campground,FALSE
+5437,1,21,Cherhill,Alberta,South of highway 43 on Range Road 51. ,https://www.albertacampgroundguide.ca/campgrounds/lessard-lake-public-campground/,50,0,Published,13,2016-06-02T22:15:53.2806770Z,lessard-lake-public-campground,c0cc631db-74ff-1acb-dad8-aa927b1a35c3,Lessard Lake Public Campground,FALSE
+14219,1,18,Elkwater,Alberta,,https://medicinehatymca.ca/Locations/Medicine-Hat/YMCA-Camp-Elkwater,50,0,Published,3,2019-05-09T14:40:18.7296612Z,ymca-camp-elkwater,c42591071-3856-08b1-7f1f-ec64e96cd522,YMCA Camp Elkwater,FALSE
+5472,1,21,Foothills,Alberta,"144192 - 2253 Drive East, MD of Foothills No. 31, Alberta, Canada 25mins South-East of Calgary, 20mins East of Okotoks",http://www.naturesfamilycampground.com/,46.25,0,Published,5,2016-05-31T22:15:36.1052609Z,natures-hideaway-family-campground,ce4658229-db2f-7c9d-1e75-bc168b413276,Nature's Hideaway Family Campground,FALSE
+8271,1,19,Edson,Alberta,,http://luxuryallsuites.com/,51,0,Published,2,2017-06-20T21:02:31.5563406Z,luxury-all-suites-bed-and-breakfast,cfa690cc2-8914-4300-3d26-d76479b15843,Luxury All Suites Bed and Breakfast,FALSE
+5532,1,19,Drumheller,Alberta,,http://www.delsbnb.com,65,0,Published,5,2016-06-18T02:34:05.0510364Z,dels-bb,cdefd0df7-9f6c-67ef-1509-d0666d64b220,Del's B&B,FALSE
+5601,1,16,Calgary,Alberta,,http://www.wingatebywyndhamcalgary.com,65,0,Unpublished,4,2016-06-18T02:44:41.1331099Z,wingate-by-wyndham-calgary-south,c5843b9fc-5209-e9fa-3b76-c21ce10c3e16,Wingate by Wyndham Calgary South,FALSE
+5181,1,16,Bonnyville,Alberta,,https://www.choicehotels.ca/en/comfort-inn-&-suites-bonnyville-hotel-cna49,66,0,Published,4,2016-05-18T11:09:10.8856566Z,comfort-inn-and-suites,cb813cb84-a856-3f22-a4c7-47bc3bdff524,Comfort Inn and Suites Bonnyville,FALSE
+6836,1,23,Crowsnest Pass,Alberta,,http://www.racian.ca/copper-roof-rentals,50,0,Unpublished,3,2016-11-04T02:20:11.0859373Z,copper-roof-rentals-maple-leaf,cde24f31d-fd45-bcc2-f324-8edce5c3c0f2,Copper Roof Rentals - Maple Leaf,FALSE
+5222,1,21,Whitecourt,Alberta,,http://goodwinmeadows.wix.com/camp,7.25,0,Published,4,2016-05-15T05:18:41.6388683Z,goodwin-meadows-rv-resort,cf262850f-1554-b5e1-54d4-81abdf42e95f,Goodwin Meadows RV Resort ,FALSE
+7284,1,18,Tawatinaw,Alberta,,https://www.pvralberta.com,52,0,Published,3,2017-05-05T17:04:50.1013779Z,pine-valley-resort,c3da4f822-7efd-537c-bdba-d2efaa31b038,Pine Valley Centre,FALSE
+7731,1,16,Grande Cache,Alberta,Located west-central Alberta on the Northern border of the Rockies 145 KM northwest of Hinton/185 KM South of Grande Prairie.,http://grandecacheinn.com,41,0,Published,2,2017-07-17T21:17:19.0597103Z,grande-cache-inn-and-suites,c8df573c0-4da3-f773-e11b-b95b1b0b2bfe,Grande Cache Inn and Suites,FALSE
+6170,1,16,Coaldale,Alberta,,https://www.coaldaleinn.com,66,0,Published,6,2016-08-10T21:04:19.5356229Z,coaldale-inn,c104fe891-ed81-787b-dc64-53727ab4eee7,Coaldale Inn,FALSE
+7328,1,16,Okotoks,Alberta,,https://www.bestwestern.com/en_US/book/hotels-in-okotoks/best-western-plus-okotoks-inn-suites/propertyCode.61093.html,58.75,0,Published,3,2017-03-03T21:46:55.5762814Z,best-western-plus-okotoks-inn-and-suites,c1bb40b31-292d-57bd-9c27-133fc41e0cb9,Best Western Plus Okotoks Inn and Suites,FALSE
+7472,1,19,Eckville,Alberta,47 km West of Red Deer on Hwy 11.  9.8 km North on Range Road 4-3 .,https://www.bbcanada.com/tunetoonbb,50,0,Published,3,2017-03-27T15:15:04.2103942Z,tune-toon-b-b,cfa19ad08-b0e9-9947-7ed8-4816ec5e8e91,Tune & Toon B & B,FALSE
+6196,1,21,Bonnyville,Alberta,Located 25 km west of Cold Lake along Highway 55 and five km north on Range Road 444,http://md.bonnyville.ab.ca/305/Privately-Owned,50,0,Published,6,2016-08-09T04:44:51.5757258Z,bodina-resort,c00e5fe2f-d7c3-f8df-60b8-e6eb5f8c00dd,Bodina Resort,FALSE
+5522,1,23,Calgary,Alberta,,https://www.ohotelsuites.com,32.25,0,Unpublished,4,2016-06-10T23:46:43.9250219Z,o-hotel-suites,c1bf073ee-e964-ab4e-182c-4c8d899f78b6,O hotel suites,FALSE
+14251,1,21,Three Hills,Alberta,,http://www.threehills.ca/main.aspx?parentCode=2AA3ECE7-8A1F-4E99-9C65-B239F0847E6B&pageCode=734AB6B1-9EEF-4488-BC39-CF29A3FC476D,43.75,0,Published,1,2019-05-13T16:20:44.6754803Z,three-hills-campground,c48af4f33-2c2f-612d-12f8-5916fccea4d5,Three Hills Campground,FALSE
+8211,1,21,Rosedale,Alberta,Drumheller,http://www.11bridgescampground.ca,51,0,Published,3,2017-06-20T18:16:47.9844363Z,11,c593a6b51-5e2e-592d-e564-c1294305c1e0,"11 Bridges Campground, RV and Cozy Cabin Park",FALSE
+7440,1,21,Slave Lake,Alberta,5 km north of Slave Lake on Hwy. 88,http://www.albertaparks.ca/lesser-slave-lake-pp/information-facilities/camping/devonshire-short-stay/,29,0,Published,4,2017-03-22T18:44:29.9695862Z,devonshire-beach-short-stay-campground,,Devonshire Short-Stay Campground,FALSE
+10253,1,16,Grande Prairie,Alberta,,http://www.fourpointsgrandeprairie.com/,66,0,Published,2,2018-04-19T22:45:45.1700023Z,four-points-by-sheraton-grande-prairie,cb0cda69f-9900-c5b6-268d-63cb5c9328c8,Four Points by Sheraton Grande Prairie,FALSE
+5225,1,21,Grande Prairie,Alberta,,http://www.rotarycampground.com,65,0,Published,8,2016-05-18T11:33:29.6265400Z,grande-prairie-rotary-campground,c30464a02-a866-387e-c2f9-9e9f70b6a17a,Grande Prairie Rotary Campground,FALSE
+10142,1,16,Grande Prairie,Alberta,,https://canaltahotels.com/our-properties/hampton-grande-prairie,68,0,Published,2,2018-04-09T23:03:34.9516739Z,hampton-inn-suites-grande-prairie,cfdff4c22-ead0-e245-f42c-1f80f9f8860e,Hampton Inn & Suites Grande Prairie,FALSE
+5242,1,16,Edmonton,Alberta,,https://www.sandmanhotels.com/locations/alberta/edmonton/hotels/edmonton-west-edw,68,4,Published,4,2016-07-16T02:25:56.5591280Z,sandman-hotel-suites-edmonton-west,cbab237bc-7606-4f7b-4a28-819622fc6f56,Sandman Hotel & Suites Edmonton West,FALSE
+5298,1,16,Edmonton,Alberta,,https://www.sandmanhotels.com/locations/alberta/edmonton/hotels/signature-edmonton-south-zeds,68,0,Published,7,2016-05-30T22:40:38.6505458Z,sandman-signature-edmonton-south-hotel,c6ad7d636-95a1-c350-ca28-491047d62f3e,Sandman Signature Edmonton South Hotel,FALSE
+5042,1,16,Calgary,Alberta,,http://www.calgaryplaza.com/,98,4,Published,9,2016-05-03T00:40:04.7096580Z,best-western-premier-calgary-plaza-hotel-conference-centre,c2eaa6352-958b-438c-f32a-a82df6dfa696,Best Western Premier Calgary Plaza Hotel & Conference Centre,FALSE
+5595,1,21,Stettler,Alberta,,http://www.pjrvresort.com,51,0,Published,4,2016-06-23T21:12:33.6833877Z,prairie-junction-rv-resort,cdce622d5-6c28-0948-3fa3-c77cd845d502,Prairie Junction R.V. Resort,FALSE
+14386,1,21,Grande Prairie,Alberta,,https://gonitehawk.com/camping/year-round-rving/,31.25,0,Published,1,2019-05-28T15:45:46.0632915Z,nitehawk-wilderness-rv-park,c16b48e2f-db53-de2b-6be4-9e695acca0ff,Nitehawk Wilderness RV Park,FALSE
+10186,1,19,Nanton,Alberta,,http://changingseasonsbandb.com,67,0,Published,3,2018-04-09T17:43:47.3261638Z,changing-seasons-bed-and-breakfast,c83f31be5-4015-3947-1126-9de5b98945c4,Changing Seasons Bed and Breakfast,FALSE
+13226,1,19,Bragg Creek,Alberta,,http://craftsmanhouse.ca,65,0,Published,2,2018-12-10T17:14:36.1158622Z,craftsman-house-bed-breakfast,c3126465e-cf1b-e99f-5dfe-193584bba191,Craftsman House Bed & Breakfast,FALSE
+13618,1,19,Black Diamond,Alberta,,https://www.facebook.com/Idle-Spurs-Bed-and-Breakfast-Log-Cabin-1534797396810678/,50,0,Published,2,2019-02-11T23:15:42.0646067Z,idle-spurs-log-cabin-bed-and-breakfast,cb751c815-fd7c-25f0-a4ae-89295762737c,Idle Spurs Log Cabin Bed and Breakfast,FALSE
+13643,1,19,Nanton,Alberta,,http://www.bbcanada.com/13360.html,66,0,Published,2,2019-02-08T22:55:42.0874041Z,rendezvous-ranch-bb,cc5eaab58-657c-4f01-a403-d194f091c6b6,Rendezvous Ranch B&B,FALSE
+4673,1,19,Cremona,Alberta,,http://www.serenityhillsidebedandbreakfast.com,51,0,Published,7,2016-04-18T02:51:40.3492437Z,wwwserenityhillsidebedandbreakfastcom,c0af46759-d170-5ff8-c56f-6864975667e1,Serenity Hillside Bed and Breakfast,FALSE
+7854,1,19,Bragg Creek,Alberta,,http://www.sleepycreek.ca,65,0,Published,5,2017-05-16T15:34:25.4555645Z,sleepy-creek-country-manor,c5f308efc-8dd1-b668-5d47-7f85d6139c89,Sleepy Creek Country Manor,FALSE
+9046,1,19,Bragg Creek,Alberta,,https://www.krugersguesthouse.com/,50,0,Published,3,2018-04-05T15:57:33.7593296Z,krugers-guest-house,c5daddf47-0f5b-ef3c-484f-0018b33eb35b,Kruger's Guest House,FALSE
+4655,1,18,Athabasca,Alberta,"Grand Rapids Wilderness Adventures, Back Country Lodge. Access limited to boat, paddle, or air travel only. No vehicle access.",http://www.athabasca-river.com/,53,0,Published,7,2016-04-27T02:08:46.8838065Z,athabasca-river-wilderness-experiences,c9b15c84d-5485-bb56-9a04-a03695a6562b,Grand Rapids Wilderness Adventures,FALSE
+7468,1,21,Bragg Creek,Alberta,30 km southwest of Bragg Creek,http://www.albertaparks.ca/parks/kananaskis/bluerock/information-facilities/camping/threepoint/,29,0,Unpublished,6,2017-03-22T18:41:34.9591811Z,three-point-campground,,Threepoint Campground,FALSE
+5690,1,21,Halkirk,Alberta,Address is 302 Main Street.,http://www.halkirk.ca/community-facilities--amenities.html,12.5,0,Published,6,2016-07-14T02:34:54.3719161Z,halkirk-recreation-and-rodeo-grounds-campground,cf18d5882-205b-4786-fd8e-3773766e7fcd,Halkirk Recreation and Rodeo Grounds Campground,FALSE
+5493,1,21,Killam,Alberta,57 Street and 47 Avenue in the Town of Killam. ,http://www.town.killam.ab.ca/61,31.25,0,Published,5,2016-06-07T21:22:01.8518208Z,centennial-park-campground,c6d8acbfd-fc4b-ff63-de3a-4e249b66c61e,Centennial Park Campground ,FALSE
+5490,1,21,Daysland,Alberta,1 KM south of Daysland on Rge Rd 163. ,http://www.flagstaff.ab.ca/visitors/campgrounds-and-parks,31.25,0,Published,5,2016-06-07T23:28:04.1650329Z,edgerton-day-campground,c92f075c6-65ac-37bb-554b-586857f3e3b9,Edgerton Day Campground ,FALSE
+5477,1,21,Edgerton,Alberta,"50th Ave and Highway 894 Edgerton, Alberta",http://www.edgerton.ca/places/Edgerton-Sand-Castle-Campground_11535,50,0,Published,5,2016-06-07T22:34:21.0988267Z,edgerton-sand-castle-campground,c5fa8c302-f4d8-444f-0c58-3dc63e496b70,Edgerton Sand Castle Campground ,FALSE
+5509,1,21,Castor,Alberta,"Range Road 131, located north of Fleet. SW36-37-13-W4.",http://www.countypaintearth.ca/index.php/campgrounds,25,0,Published,7,2016-06-07T22:07:11.2501916Z,huber-dam,c7c5f3116-b64d-8bc5-265f-baa616416818,Huber Dam,FALSE
+5516,1,21,Brownfield,Alberta,8 km N of Brownfield along Sec. Rd. 872,http://www.albertacampgroundguide.ca/campground/brownfield/burma_park,25,0,Published,5,2016-06-23T22:25:27.5854951Z,burma-park,cee34e2c7-743e-607a-4dd2-10260a6bbe0f,Burma Park ,FALSE
+5508,1,21,Halkirk,Alberta,Located in Halkirk at the corner of Highway 12 and Highway 855 on Berry Street.,http://www.halkirk.ca/community-facilities--amenities.html,18.75,0,Published,5,2016-06-07T22:03:59.0116276Z,berry-street-campground,c57ba80ef-f6c0-a327-fe39-a2dd4139c303,Berry Street Campground ,FALSE
+5484,1,21,Coronation,Alberta,Located at the Dam Site. Follow Royal Street North through Coronation.,http://www.town.coronation.ab.ca/living/recreation/campground/,50,0,Published,7,2016-06-07T22:42:51.1315964Z,coronation-dam-campground,cb98e92af-babc-25a2-fa81-9659d955d2ea,Coronation Dam Campground ,FALSE
+5491,1,21,Alliance,Alberta,,http://www.villageofalliance.ca/Recreation.page,25,0,Published,5,2016-06-07T23:39:16.2369244Z,alliance-recreation-grounds-campground,c5223b8a3-a061-b572-d583-ad976b4baed6,Alliance Recreation Grounds Campground ,FALSE
+5515,1,21,Castor,Alberta,On the NW side of Hwy 12 in the Town of Castor. ,http://www.castor.ca/castor-campgrounds.html,25,0,Published,5,2016-07-14T02:38:14.5271129Z,castor-lions-campground,c00c07cb0-1e7f-6c58-5d42-6fb0ecc915e9,Castor Lions Campground ,FALSE
+7081,1,19,Banff,Alberta,,http://lebeaujolaisbanff.com,65,0,Published,6,2016-12-16T00:56:52.2375296Z,beaujolais-boutique-bb-at-theas-house,cba15e93a-2d8a-04d4-1f2c-1a289923a7d3,Beaujolais Boutique B&B at Thea's House,FALSE
+9225,1,16,Harvie Heights,Alberta,,http://banffboundarylodge.ca/,65,0,Published,3,2017-11-22T17:08:43.4187026Z,banff-boundary-lodge,cfd33e5fd-4626-b743-7a1c-a8299f128f7e,Banff Boundary Lodge ,FALSE
+9195,1,16,Canmore,Alberta,,http://summitatgranderockies.com/,65,0,Published,4,2017-11-22T17:13:44.0826499Z,the-summit-at-grande-rockies,cd5658769-59f6-f290-93c1-2542435d96bf,The Summit at Grande Rockies ,FALSE
+14384,1,16,Fort McMurray,Alberta,,https://www.marriott.com/hotels/travel/ymmts-towneplace-suites-fort-mcmurray,66,0,Published,1,2019-05-27T17:26:10.7128592Z,towneplace-suites-by-marriott,c61142485-e966-07c7-dcec-601a7651b428,TownePlace Suites by Marriott,FALSE
+14387,1,16,Whitecourt,Alberta,,https://www.wyndhamhotels.com/microtel/whitecourt-alberta/microtel-inn-and-suites-by-wyndham-whitecourt/overview,65,0,Published,1,2019-05-28T14:58:21.6972240Z,microtel-inn-suites-by-wyndham-whitecourt,c5e71b39e-53b9-4310-779d-fd9059139fd8,Microtel Inn & Suites by Wyndham Whitecourt,FALSE
+14388,1,16,Bonnyville,Alberta,,https://www.wyndhamhotels.com/microtel/bonnyville-alberta/microtel-inn-suites-by-wyndham-bonnyville/overview,65,0,Published,1,2019-05-28T15:59:12.7046484Z,microtel-inn-suites-by-wyndham-bonnyville,cfb76b869-a703-b986-0ee3-b18ecc897e64,Microtel Inn & Suites by Wyndham Bonnyville,FALSE
+1705,1,21,Longview,Alberta,Coming Soon,https://www.albertaparks.ca/parks/kananaskis/strawberry-pra/information-facilities/camping/strawberry-equestrian/,29,0,Published,14,2015-12-12T04:03:47.8884291Z,strawberry-equestrian-campground,,Strawberry Equestrian Campground,FALSE
+4664,1,21,Stettler,Alberta,,http://www.stettler.net/admin/contentx/default.cfm?PageId=8248,43.75,0,Published,6,2016-04-13T09:53:20.3405134Z,town-of-stettler-campground,cec1cae3f-083f-bc9e-2ea6-ebf133c16e79,Town of Stettler Campground,FALSE
+7285,1,16,Cochrane,Alberta,,https://www.wyndhamhotels.com/super-8/cochrane-alberta/super-8-hotel-and-suites-cochrane/overview,65,0,Published,7,2017-02-22T00:39:30.7216686Z,super-8-cochrane,c5fcbb267-b6c8-e601-0e7f-a3d5b50d9dcf,Super 8 Hotel & Suites Cochrane,FALSE
+14443,1,21,Grassy Lake,Alberta,,http://www.grassylakerec.ca,50,0,Published,1,2019-06-18T15:36:40.4893522Z,grassy-lake-community-campground,c9124f883-47ff-e05f-405d-4ace64f1c97d,Grassy Lake Community Campground,FALSE
+5675,1,21,Cold Lake,Alberta,West of Kinosoo Beach,http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,5,2016-07-13T04:30:29.3402987Z,cold-lake-md-campground,c3f1ce2b8-659f-3293-9605-2764b6ff0ab5,Cold Lake M.D. Campground,FALSE
+5680,1,21,Cold Lake,Alberta,Located 25 km west of Cold Lake along Highway 55 and five km north on Range Road 444.,http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,6,2016-07-13T04:17:38.1564912Z,crane-lake-west-md-park,c495f20c9-4363-e72d-ebf9-a94e3739e6a0,Crane Lake West M.D. Park ,FALSE
+5684,1,21,Bonnyville,Alberta,"Two km north of Bonnyville on Highway 41, 16 km west on Highway 660, 6.5 km south on RR 474",http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,7,2016-07-13T04:06:37.5301829Z,pelican-point-md-park-moose-lake,c39993e95-5555-f559-ca7e-bc61c3f51371,Pelican Point M.D. Park Moose Lake,FALSE
+5691,1,21,Bonnyville,Alberta,Located 12 km east off of Highway 28 on Township Road 610 and six km south on RR 452.,http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,6,2016-07-14T02:29:19.5535742Z,muriel-lake-md-park,cbbb7ac08-beae-223b-5bd4-deb2f5864eb3,Muriel Lake M.D. Park,FALSE
+5694,1,21,Bonnyville,Alberta,Located five minutes northeast of Glendon of off Highway 660. ,http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,5,2016-07-14T03:41:30.6699356Z,minnie-lake-md-park-east,cc21b4fc0-5b07-b983-a7c7-2f3e45b1a144,Minnie Lake M.D. Park East,FALSE
+5695,1,21,Bonnyville,Alberta,Located five minutes northeast of Glendon north off of Highway 660.,http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,7,2016-07-14T03:41:05.4585734Z,minnie-lake-md-park-west,c711c5e17-8a99-973f-9133-240e7ae9fc7b,Minnie Lake M.D. Park West,FALSE
+5696,1,21,Bonnyville,Alberta,"South of Highway 28 on RR 484 for 6.4km, east on 594 for 3.3km, south on 482 for one km.",http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,7,2016-07-14T03:44:51.5680441Z,chicken-hill-lake-md-park,cf37da37e-9b2c-7a1a-a3b2-4e41b5511937,Chicken Hill Lake M.D. Park,FALSE
+5698,1,21,Cold Lake,Alberta,Located 25 km west of Cold Lake on Highway 55 and 5 km north on Range Road 444.,http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,8,2016-07-13T04:23:50.7097746Z,crane-lake-east-md-park,c60ed5388-8fe7-d3bf-4719-50496b4658a7,Crane Lake East M.D. Park,FALSE
+5884,1,21,Bonnyville,Alberta,"Twenty km north of Bonnyville on Highway 41, 15 west on Highway 55 and 30 km north on RR 473.",http://www.md.bonnyville.ab.ca/304/Municipal-Owned,53,0,Published,7,2016-07-14T20:56:54.1621526Z,wolf-lake-md-park,c0efdac87-fcad-37f3-0926-2e3c78dcf2f1,Wolf Lake M.D. Park ,FALSE
+7022,1,21,Drayton Valley,Alberta,"49216 Range Road 71, Site 404 ",http://www.willeywestcampground.com,50,0,Published,5,2016-12-03T04:41:56.9335720Z,willey-west-campground,c4c79a138-b365-cf18-6c60-6a2f5f00b7da,Willey West Campground,FALSE
+13613,1,16,Red Deer,Alberta,,https://www.ihg.com/staybridge/hotels/us/en/red-deer/yqfsb/hoteldetail,46.75,0,Published,1,2019-02-06T20:35:45.2024014Z,staybridge-suites-red-deer-north,cfbcb1d53-ce6d-d248-b8e2-ce32c328bd3b,Staybridge Suites Red Deer North,FALSE
+8361,1,16,Sherwood Park,Alberta,,http://www.clarionhotelsherwoodpark.com,50,0,Published,3,2017-07-05T17:28:35.5164538Z,clarion-hotel-and-conference-centre,c24ba6af5-d7da-5d06-fe10-9cd0d4073fa9,Clarion Hotel and Conference Centre,FALSE
+13172,1,16,Canmore,Alberta,,https://www.malcolmhotel.ca/,67,0,Published,3,2018-11-28T23:13:07.2379645Z,the-malcolm-hotel,cb9f64e24-15e2-bf71-bb58-4003c9e4136c,The Malcolm Hotel,FALSE
+7467,1,21,Pincher Creek,Alberta,11.5 km west of Pincher Creek on Hwy. 507 & 8.5 km south on Hwy. 775,http://www.albertaparks.ca/parks/south/beauvais-lake/information-facilities/camping/beauvais-walk-in-tenting/,41.5,0,Published,7,2017-03-22T18:41:08.0945286Z,beauvais-walk-in-tenting-campground,,Beauvais Walk-In Tenting Campground,FALSE
+13617,1,18,Sylvan Lake,Alberta,,https://www.cooltoyz.ca/index.php?area_id=1004&page_id=1016,65,0,Published,2,2019-05-17T15:07:32.2852388Z,sylvan-lake-ice-fishing-hut-rentals,c4565c6a4-9975-03fa-917d-4f43f9551ecc,Cool Toyz Ice Fishing Hut Rentals,FALSE
+1553,1,21,Chauvin,Alberta,75 km south of Lloydminster on Hwy. 17 (at Alberta-Saskatchewan border),http://www.albertaparks.ca/parks/central/dillberry-lake/information-facilities/camping/dillberry-lake/,54,0,Published,15,2015-12-12T03:40:12.5083153Z,dillberry-lake-campground,,Dillberry Lake Campground,FALSE
+1527,1,21,Crowsnest Pass,Alberta,,https://www.albertaparks.ca/parks/south/castle-pp/information-facilities/camping/castle-river-bridge/,47.75,0,Published,16,2015-12-12T02:48:40.1561630Z,castle-river-bridge-campground,,Castle River Bridge Campground,FALSE
+1505,1,21,Crowsnest Pass,Alberta,,http://www.albertaparks.ca/parks/south/castle-pp/information-facilities/camping/beaver-mines-lake/,35.25,0,Published,16,2015-12-12T02:05:20.8736511Z,beaver-mines-lake-campground,,Beaver Mines Lake Campground,FALSE
+1548,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/cypress-hills/information-facilities/camping/reesor-dock/,35.25,0,Published,17,2015-12-12T02:57:46.0831321Z,reesor-dock-campground,,Reesor Dock Campground,FALSE
+1676,1,21,Grimshaw,Alberta,3 km north and 5 km west of Grimshaw off Hwy. 35,http://www.albertaparks.ca/queen-elizabeth/information-facilities/camping/queen-elizabeth/,29,0,Published,13,2015-12-12T04:27:06.2604417Z,queen-elizabeth-campground,,Queen Elizabeth Campground,FALSE
+1736,1,21,Valleyview,Alberta,,http://www.albertaparks.ca/williamson/information-facilities/camping/williamson/,29,0,Published,15,2015-12-12T04:02:11.6211818Z,williamson-campground,,Williamson Campground,FALSE
+1571,1,21,Slave Lake,Alberta,,http://www.albertaparks.ca/fawcett-lake/information-facilities/camping/fawcett-lake/,4,0,Published,14,2015-12-12T03:55:38.6944902Z,fawcett-lake-campground,,Fawcett Lake Campground,FALSE
+1671,1,21,Wetaskiwin,Alberta,,http://www.albertaparks.ca/pigeon-lake/information-facilities/camping/zeiner/,29,0,Published,15,2015-12-12T00:33:28.0682910Z,zeiner-campground,,Zeiner Campground,FALSE
+1610,1,21,Vulcan,Alberta,20 km north of Vulcan on Hwy. 23 & 25 km east on Hwy. 542,http://www.albertaparks.ca/lake-mcgregor/information-facilities/camping/lake-mcgregor/,29,0,Published,14,2015-12-12T03:51:29.1582970Z,lake-mcgregor-campground,,Lake McGregor Campground,FALSE
+1584,1,21,Innisfail,Alberta,20 km west of Innisfail south of Hwy. 54 (on Gleniffer Lake at Dickson Dam),http://www.albertaparks.ca/gleniffer-reservoir/information-facilities/camping/dickson-point/,29,0,Published,13,2015-12-12T04:00:55.2825408Z,dickson-point-campground,,Dickson Point Campground,FALSE
+1585,1,21,Innisfail,Alberta,20 km west of Innisfail south of Hwy. 54 (on Gleniffer Lake at Dickson Dam),http://www.albertaparks.ca/gleniffer-reservoir/information-facilities/camping/north-dyke/,4,0,Published,13,2015-12-12T04:01:10.8592808Z,north-dyke-campground,,North Dyke Campground,FALSE
+1586,1,21,Innisfail,Alberta,20 km west of Innisfail south of Hwy. 54 (on Gleniffer Lake at Dickson Dam),http://www.albertaparks.ca/gleniffer-reservoir/information-facilities/camping/south-dyke/,29,0,Published,13,2015-12-12T04:01:29.0106317Z,south-dyke-campground,,South Dyke Campground,FALSE
+1707,1,21,Dixonville,Alberta,,http://www.albertaparks.ca/sulphur-lake/information-facilities/camping/sulphur-lake/,29,0,Published,15,2015-12-12T04:01:12.0985895Z,sulphur-lake-campground,,Sulphur Lake Campground,FALSE
+1597,1,21,Edson,Alberta,15 km west of Edson on Hwy. 16,http://www.albertaparks.ca/hornbeck-creek/information-facilities/camping/hornbeck-creek/,29,0,Published,14,2015-12-12T04:03:42.2191600Z,hornbeck-creek-campground,,Hornbeck Creek Campground,FALSE
+1600,1,21,Fox Creek,Alberta,11 km north of Fox Creek off Hwy. 43,http://www.albertaparks.ca/iosegun-lake/information-facilities/camping/iosegun-lake/,29,0,Published,14,2015-12-12T04:04:36.9307679Z,iosegun-lake-campground,,Iosegun Lake Campground,FALSE
+1725,1,21,Pincher Creek,Alberta,25 km south of Pincher Creek on Hwy. 6 and 25 km east on Hwy. 505,http://www.albertaparks.ca/waterton-reservoir/information-facilities/camping/waterton-reservoir/,29,0,Published,16,2015-12-12T04:01:59.0516032Z,waterton-reservoir-campground,,Waterton Reservoir Campground,FALSE
+1545,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/lakeview/,41.5,0,Published,16,2015-12-12T02:56:25.7675252Z,lakeview-campground,,Lakeview Campground,FALSE
+1651,1,21,Fort Macleod,Alberta,5 km southwest of Ft. Macleod on Hwy. 3,http://www.albertaparks.ca/oldman-river/information-facilities/camping/oldman-river/,29,0,Published,14,2015-12-12T04:09:31.4178877Z,oldman-river-campground,,Oldman River Campground,FALSE
+1589,1,21,Consort,Alberta,"12 km north of Consort, off Hwy. 41",http://www.albertaparks.ca/gooseberry-lake/information-facilities/camping/gooseberry-lake/,54,0,Published,16,2015-12-12T04:02:23.6082399Z,gooseberry-lake-campground,,Gooseberry Lake Campground,FALSE
+1519,1,21,Winfield,Alberta,,http://www.albertaparks.ca/parks/central/buck-lake-pra/information-facilities/camping/buck-lake/,4,0,Published,16,2015-12-12T02:45:09.1230676Z,buck-lake-campground,,Buck Lake Campground,FALSE
+1583,1,21,Cochrane,Alberta,18 km west of Cochrane on Hwy. 1A,http://www.albertaparks.ca/ghost-reservoir/information-facilities/camping/ghost-reservoir/,4,0,Published,15,2015-12-12T04:00:37.1959367Z,ghost-reservoir-campground,,Ghost Reservoir Campground,FALSE
+1692,1,21,Turner Valley,Alberta,,https://www.albertaparks.ca/parks/kananaskis/sheep-river-pp/information-facilities/camping/sandy-mcnabb/,29,0,Published,14,2015-12-12T04:03:26.5945830Z,sandy-mcnabb-campground,,Sandy McNabb Campground,FALSE
+1691,1,21,Turner Valley,Alberta,,https://www.albertaparks.ca/parks/kananaskis/sheep-river-pp/information-facilities/camping/bluerock-equestrian/,29,0,Published,13,2015-12-12T04:03:30.6553291Z,bluerock-equestrian-campground,,Bluerock Equestrian Campground,FALSE
+1690,1,21,Turner Valley,Alberta,,https://www.albertaparks.ca/parks/kananaskis/sheep-river-pp/information-facilities/camping/bluerock/,35.25,0,Published,14,2015-12-12T03:56:54.4365191Z,bluerock-campground,,Bluerock Campground,FALSE
+1633,1,21,Bragg Creek,Alberta,27 km south of Bragg Creek on Hwy. 762 & 7 km west on Hwy. 549,https://www.albertaparks.ca/parks/kananaskis/mesa-butte-pra/information-facilities/camping/mesa-butte-equestrian/,54,0,Published,13,2015-12-12T03:28:07.6187568Z,mesa-butte-equestrian-campground,,Mesa Butte Equestrian Campground,FALSE
+1630,1,21,Bragg Creek,Alberta,Coming Soon,https://www.albertaparks.ca/parks/kananaskis/mclean-creek-pra/information-facilities/camping/mclean-creek/,29,0,Published,14,2015-12-12T03:27:12.4567868Z,mclean-creek-campground,,McLean Creek Campground,FALSE
+1621,1,21,Bragg Creek,Alberta,50 km west of Bragg Creek along Hwy. 66,https://www.albertaparks.ca/parks/kananaskis/little-elbow-pra/information-facilities/camping/little-elbow-equestrian/,29,0,Published,14,2015-12-12T03:30:20.0089997Z,little-elbow-equestrian-campground,,Little Elbow Equestrian Campground,FALSE
+1620,1,21,Bragg Creek,Alberta,50 km west of Bragg Creek along Hwy. 66,https://www.albertaparks.ca/parks/kananaskis/little-elbow-pra/information-facilities/camping/little-elbow/,54,0,Published,14,2015-12-12T03:30:19.4885332Z,little-elbow-campground,,Little Elbow Campground,FALSE
+1599,1,21,Longview,Alberta,,https://www.albertaparks.ca/parks/kananaskis/indian-graves-pra/information-facilities/camping/indian-graves-equestrian/,54,0,Published,15,2015-12-12T04:04:19.7210180Z,indian-graves-equestrian-campground,,Indian Graves Equestrian Campground,FALSE
+1598,1,21,Longview,Alberta,,https://www.albertaparks.ca/parks/kananaskis/indian-graves-pra/information-facilities/camping/indian-graves/,47.75,0,Published,14,2015-12-12T04:04:00.8622097Z,indian-graves-campground,,Indian Graves Campground,FALSE
+1590,1,21,Longview,Alberta,22 km west of Longview on Hwy. 541,https://www.albertaparks.ca/parks/kananaskis/greenford-pra/information-facilities/camping/greenford/,29,0,Published,13,2015-12-12T04:02:40.3905116Z,greenford-campground,,Greenford Campground,FALSE
+1709,1,21,Rocky Mountain House,Alberta,"Swan Lake Campground is found in Swan Lake Provincial Recreation Area, 40 km southwest of Rocky Mountain House on Hwy. 752 and 20 km southeast on an access road.",http://www.albertaparks.ca/parks/central/swan-lake/information-facilities/camping/swan-lake/,29,0,Published,15,2015-12-12T04:01:03.3769016Z,swan-lake-campground,,Swan Lake Campground,FALSE
+1737,1,21,High Prairie,Alberta,"This campground is found in Winagami Lake Provincial Park, 20 km north of High Prairie on Hwy. 749, 10 km west on Hwy. 679 and 7 km north on an access road.",http://www.albertaparks.ca/parks/northwest/winagami-lake/information-facilities/camping/winagami-lake/,29,0,Published,15,2015-12-12T04:24:31.9480737Z,winagami-lake-campground,,Winagami Lake Campground,FALSE
+1735,1,21,Hinton,Alberta,,https://www.albertaparks.ca/parks/central/william-a-switzer/information-facilities/camping/jarvis-lake/,54,0,Published,15,2015-12-12T04:02:15.7880502Z,jarvis-lake-campground,,Jarvis Lake Campground,FALSE
+9161,1,21,Hinton,Alberta,"3 km west of Hinton on Hwy. 16, 19 km north on Hwy. 40, and a few km southeast on a gravel access road. ",https://www.albertaparks.ca/parks/central/william-a-switzer/information-facilities/camping/halfway/,29,0,Published,3,2017-10-25T18:25:27.0918311Z,halfway-campground,,Halfway Campground,FALSE
+1637,1,18,Edmonton,Alberta,"40km southwest of Tofield, off Hwy 623.",http://www.albertaparks.ca/miquelon-lake/information-facilities/camping/comfort-camping/,54,0,Published,16,2015-12-11T06:13:54.9974884Z,miquelon-lake-provincial-park-comfort-camping,,Miquelon Lake Provincial Park Comfort Camping,FALSE
+1734,1,21,Hinton,Alberta,,https://www.albertaparks.ca/parks/central/william-a-switzer/information-facilities/camping/gregg-lake/,29,0,Published,14,2015-12-12T04:02:25.5327254Z,gregg-lake-campground,,Gregg Lake Campground,FALSE
+1732,1,21,Hinton,Alberta,,https://www.albertaparks.ca/parks/central/william-a-switzer/information-facilities/camping/cache-lake/,29,0,Published,14,2015-12-12T04:23:50.4010807Z,cache-lake-campground,,Cache Lake Campground,FALSE
+1592,1,21,Fort McMurray,Alberta,35 km south of Ft. McMurray on Hwy. 63,https://www.albertaparks.ca/parks/northeast/hangingstone/information-facilities/camping/hangingstone/,29,0,Published,14,2015-12-12T03:56:20.7346405Z,hangingstone-campground,,Hangingstone Campground,FALSE
+1655,1,21,Cardston,Alberta,,https://www.albertaparks.ca/parks/south/payne-lake/information-facilities/camping/payne-lake/,29,0,Published,14,2015-12-12T03:55:14.1785700Z,payne-lake-campground,,Payne Lake Campground,FALSE
+1674,1,21,Cardston,Alberta,10 km south & 23 km west of Cardston on Hwy. 2,https://www.albertaparks.ca/parks/south/police-outpost/information-facilities/camping/police-outpost/,29,0,Published,16,2015-12-12T04:15:08.1946270Z,police-outpost-campground,,Police Outpost Campground,FALSE
+1529,1,21,Nanton,Alberta,38 km southwest of Nanton on Hwy. 533,http://www.albertaparks.ca/parks/south/chain-lakes-pp/information-facilities/camping/chain-lakes/,47.75,0,Published,17,2015-12-12T02:49:58.1389674Z,chain-lakes-campground,,Chain Lakes Campground,FALSE
+1587,1,21,Nordegg,Alberta,8 km west of Nordegg on Hwy. 11 & 3 km north on access road,http://www.albertaparks.ca/parks/central/goldeye-lake/information-facilities/camping/goldeye-lake/,29,0,Published,15,2015-12-12T04:01:50.6327534Z,goldeye-lake-campground,,Goldeye Lake Campground,FALSE
+1556,1,21,Nordegg,Alberta,11 km west of Nordegg on Hwy. 11,http://www.albertaparks.ca/parks/central/dry-haven/information-facilities/camping/dry-haven/,29,0,Published,15,2015-12-12T03:42:58.5910629Z,dry-haven-campground,,Dry Haven Campground,FALSE
+1524,1,21,Whitecourt,Alberta,"6 km west on Hwy. 43, 11 km north on Hwy. 32 and 5 east on an access road.",http://www.albertaparks.ca/parks/central/carson-pegasus/information-facilities/camping/carson-pegasus/,35.25,0,Published,17,2015-12-12T02:47:23.4318274Z,carson-pegasus-campground,,Carson-Pegasus Campground,FALSE
+1537,1,21,Rocky Mountain House,Alberta,14 km west of Rocky Mountain House on Hwy. 11 & 6 km north on Hwy. 756,http://www.albertaparks.ca/parks/central/crimson-lake/information-facilities/camping/twin-lakes/,29,0,Published,12,2015-12-12T02:53:00.4068096Z,twin-lakes-campground,,Twin Lakes Campground,FALSE
+1739,1,21,Edson,Alberta, 24 km east of Edson on Hwy. 16 and 53 km south on Wolf Lake Road,http://www.albertaparks.ca/parks/central/wolf-lake-west/information-facilities/camping/wolf-lake-west/,29,0,Published,15,2015-12-12T04:04:46.3895488Z,wolf-lake-west-campground,,Wolf Lake West Campground,FALSE
+1675,1,21,Rocky Mountain House,Alberta,41 km southwest of Rocky Mountain House on Hwy. 752,http://www.albertaparks.ca/parks/central/prairie-creek/information-facilities/camping/prairie-creek/,4,0,Published,13,2015-12-12T04:15:24.1907605Z,prairie-creek-campground,,Prairie Creek Campground,FALSE
+1668,1,21,Rocky Mountain House,Alberta,,http://www.albertaparks.ca/parks/central/phyllis-lake/information-facilities/camping/phyllis-lake/,29,0,Published,14,2015-12-12T04:11:18.1141304Z,phyllis-lake-campground,,Phyllis Lake Campground,FALSE
+1619,1,21,Vulcan,Alberta,"20 km south of Vulcan on Hwy. 23, 35 km east on Hwy. 529, 5 km on Hwy 845 and 0.5 km on TWP 144.",http://www.albertaparks.ca/parks/south/little-bow-reservoir/information-facilities/camping/little-bow-reservoir/,29,0,Published,11,2015-12-12T03:30:18.1598116Z,little-bow-reservoir-campground,,Little Bow Reservoir Campground,FALSE
+1654,1,21,Lethbridge,Alberta,17 km northwest of Lethbridge on Hwy. 25 and 5 km north & west on Hwy. 101,http://www.albertaparks.ca/parks/south/park-lake/information-facilities/camping/park-lake/,35.25,0,Published,15,2015-12-12T03:55:39.1214632Z,park-lake-campground,,Park Lake Campground,FALSE
+1638,1,21,Rocky Mountain House,Alberta,19 km south of Rocky Mountain House on Hwy. 22 & 10 km west on access road,http://www.albertaparks.ca/parks/central/mitchell-lake/information-facilities/camping/mitchell-lake/,29,0,Published,14,2015-12-12T03:54:08.9147456Z,mitchell-lake-campground,,Mitchell Lake Campground,FALSE
+1564,1,21,Rocky Mountain House,Alberta,65 km southwest of Rocky Mountain House on Forestry Trunk Road (Hwy. 734),http://www.albertaparks.ca/parks/central/elk-creek/information-facilities/camping/elk-creek/,29,0,Published,14,2015-12-12T03:49:21.5472486Z,elk-creek-campground,,Elk Creek Campground,FALSE
+1740,1,21,Lethbridge,Alberta,,http://www.albertaparks.ca/parks/south/writing-on-stone/information-facilities/camping/writing-on-stone/,54,0,Published,15,2015-12-12T04:04:50.6582070Z,writing-on-stone-campground,,Writing-on-Stone Campground,FALSE
+1670,1,21,Wetaskiwin,Alberta,,http://www.albertaparks.ca/parks/central/pigeon-lake/information-facilities/camping/pigeon-lake/,29,0,Published,16,2015-12-12T04:13:14.0876562Z,pigeon-lake-campground,,Pigeon Lake Campground,FALSE
+1728,1,21,Elk Point,Alberta,"1km south of Elk Point on Hwy. 41, 27km east on Hwy. 646 to access road. ",http://www.albertaparks.ca/parks/northeast/whitney-lakes/information-facilities/camping/ross-lake/,29,0,Published,13,2015-12-12T04:25:14.3165126Z,ross-lake-campground,,Ross Lake Campground,FALSE
+1713,1,21,Barrhead,Alberta,21 km west of Barrhead on Hwy. 18,http://www.albertaparks.ca/parks/central/thunder-lake/information-facilities/camping/thunder-lake/,29,0,Published,14,2015-12-12T04:01:25.7331417Z,thunder-lake-campground,,Thunder Lake Campground,FALSE
+1593,1,21,Nordegg,Alberta,13 km east of Nordegg on Hwy. 11,http://www.albertaparks.ca/harlech/information-facilities/camping/harlech/,29,0,Published,14,2015-12-12T03:56:15.2335282Z,harlech-campground,,Harlech Campground,FALSE
+1596,1,21,Rocky Mountain House,Alberta,25 km west of Rocky Mountain House on Hwy. 11 & 6 km south on access road,http://www.albertaparks.ca/horburg/information-facilities/camping/horburg/,29,0,Published,13,2015-12-12T04:03:25.5248150Z,horburg-campground,,Horburg Campground,FALSE
+1602,1,21,Rocky Mountain House,Alberta,50 km west of Rocky Mountain House on Hwy. 11 & 2 km north on access road,http://www.albertaparks.ca/jackfish-lake/information-facilities/camping/jackfish-lake/,29,0,Published,13,2015-12-12T04:05:19.9469501Z,jackfish-lake-campground,,Jackfish Lake Campground,FALSE
+1609,1,21,Nordegg,Alberta,67 km west of Nordegg on Hwy. 11,http://www.albertaparks.ca/kootenay-plains/information-facilities/camping/two-o-clock-creek/,29,0,Published,12,2015-12-12T03:52:07.5714397Z,two-o-clock-creek-campground,,Two O Clock Creek Campground,FALSE
+1625,1,21,Robb,Alberta,40 km south of Robb on Hwy. 40,http://www.albertaparks.ca/lovett-river/information-facilities/camping/lovett-river/,29,0,Published,13,2015-12-12T04:07:44.8435822Z,lovett-river-campground,,Lovett River Campground,FALSE
+1631,1,21,Hinton,Alberta,23 km southeast of Hinton on Robb/Hinton road,http://www.albertaparks.ca/mcleod-river/information-facilities/camping/mcleod-river/,41.5,0,Published,13,2015-12-12T03:27:13.2883663Z,mcleod-river-campground,,McLeod River Campground,FALSE
+1632,1,21,Rocky Mountain House,Alberta,,http://www.albertaparks.ca/medicine-lake/information-facilities/camping/medicine-lake/,29,0,Published,12,2015-12-12T03:27:14.0772030Z,medicine-lake-campground,,Medicine Lake Campground,FALSE
+1510,1,21,Canmore,Alberta,25 km east of Canmore on Hwy. 1 & 0.5 km north on Hwy. 1X,http://www.albertaparks.ca/parks/kananaskis/bow-valley-pp/information-facilities/camping/bow-river/,35.25,0,Published,14,2015-12-12T02:14:52.8263238Z,bow-river-campground,,Bow River Campground,FALSE
+1642,1,21,Nojack,Alberta,2 km west of Nojack on Hwy. 16,http://www.albertaparks.ca/nojack/information-facilities/camping/nojack/,4,0,Published,12,2015-12-12T03:50:47.8419495Z,nojack-campground,,Nojack Campground,FALSE
+1744,1,21,Valleyview,Alberta,26 km west of Valleyview on Hwy. 43 and 10 km northeast on an access road.,http://www.albertaparks.ca/parks/northwest/youngs-point/information-facilities/camping/youngs-point/,29,0,Published,15,2015-12-12T04:04:29.3700708Z,youngs-point-main-campground,,Young's Point Campground,FALSE
+1535,1,21,Nordegg,Alberta,22 km west of Nordegg on Hwy. 11 & 6 km north on access road,http://www.albertaparks.ca/parks/central/crescent-falls/information-facilities/camping/crescent-falls/,54,0,Published,17,2015-12-12T02:52:17.1047228Z,crescent-falls-campground,,Crescent Falls Campground,FALSE
+1741,1,18,Lethbridge,Alberta,40km east of Milk River,http://www.albertaparks.ca/writing-on-stone/information-facilities/camping/comfort-camping/,35.25,0,Published,17,2015-12-12T04:04:54.0330279Z,writing-on-stone-provincial-park-comfort-camping,,Writing-on-Stone Provincial Park Comfort Camping,FALSE
+1743,1,18,Carseland,Alberta,,http://www.albertaparks.ca/wyndham-carseland/information-facilities/camping/comfort-camping/,29,0,Published,15,2015-12-12T04:04:32.8393990Z,wyndham-carseland-provincial-park-comfort-camping,,Wyndham-Carseland Provincial Park Comfort Camping,FALSE
+1541,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/beaver-creek/,35.25,0,Published,16,2015-12-12T02:54:35.0704317Z,beaver-creek-campground,,Beaver Creek Campground,FALSE
+1546,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/lodgepole/,29,0,Published,17,2015-12-12T02:56:55.2476194Z,lodgepole-campground,,Lodgepole Campground,FALSE
+1543,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/ferguson-hill/,35.25,0,Published,19,2015-12-12T02:55:25.7137514Z,ferguson-hill-campground,,Ferguson Hill Campground,FALSE
+1542,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/elkwater/,35.25,0,Published,14,2015-12-12T02:54:59.9127525Z,elkwater-campground,,Elkwater Campground,FALSE
+1547,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/old-baldy/,35.25,0,Published,16,2015-12-12T02:57:14.3723283Z,old-baldy-campground,,Old Baldy Campground,FALSE
+1551,1,21,Canmore,Alberta,,http://www.albertaparks.ca/parks/kananaskis/dawson/information-facilities/camping/dawson-equestrian/,29,0,Published,15,2015-12-12T02:59:23.7164639Z,dawson-equestrian-campground,,Dawson Equestrian Campground,FALSE
+1708,1,21,Hinton,Alberta,56 km northeast of Hinton on Emerson Creek Road,http://www.albertaparks.ca/sundance-pp/information-facilities/camping/emerson-lakes/,29,0,Published,13,2015-12-12T04:01:08.7298835Z,emerson-lakes-campground,,Emerson Lakes Campground,FALSE
+1712,1,21,Nordegg,Alberta,,http://www.albertaparks.ca/thompson-creek/information-facilities/camping/thompson-creek/,29,0,Published,11,2015-12-12T04:01:30.1999924Z,thompson-creek-campground,,Thompson Creek Campground,FALSE
+1664,1,21,Canmore,Alberta,43 km southeast of Canmore along Hwy. 40,https://www.albertaparks.ca/parks/kananaskis/peter-lougheed-pp/information-facilities/camping/lower-lake/,29,0,Published,13,2015-12-12T03:54:33.3501404Z,lower-lake-campground,,Lower Lake Walk-In Tenting Campground,FALSE
+1715,1,21,Swan Hills,Alberta,30 km south of Swan Hills on Hwy. 33,http://www.albertaparks.ca/trapper-leas-cabin/information-facilities/camping/trapper-leas-cabin/,29,0,Published,12,2015-12-12T04:00:37.6683908Z,trapper-leas-cabin-campground,,Trapper Leas Cabin Campground,FALSE
+1726,1,21,Robb,Alberta,38 km southwest of Robb,http://www.albertaparks.ca/watson-creek/information-facilities/camping/watson-creek/,29,0,Published,13,2015-12-12T04:01:54.9304857Z,watson-creek-campground,,Watson Creek Campground,FALSE
+1727,1,21,Robb,Alberta,6 km southwest of Cadomin ,http://www.albertaparks.ca/whitehorse-creek/information-facilities/camping/whitehorse-creek/,54,0,Published,13,2015-12-12T04:25:19.6540763Z,whitehorse-creek-campground,,Whitehorse Creek Campground,FALSE
+7439,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/spring-creek-equestrian/,29,0,Published,6,2017-03-22T18:44:54.3523548Z,spring-creek-equestrian-campground,,Spring Creek Equestrian Campground,FALSE
+1612,1,21,Lac La Biche,Alberta,"17 km south of Lac La Biche on Hwy. 36, 60 km east of Hwy. 55, and 20 km north on the access road.",http://www.albertaparks.ca/lakeland/information-facilities/camping/seibert-lake/,29,0,Published,13,2015-12-12T04:06:52.8882253Z,seibert-lake-campground,,Seibert Lake Campground,FALSE
+1622,1,21,Drumheller,Alberta,50 km southeast of Drumheller on Hwy. 573,http://www.albertaparks.ca/little-fish-lake/information-facilities/camping/little-fish-lake/,4,0,Published,12,2015-12-12T03:30:20.6988992Z,little-fish-lake-campground,,Little Fish Lake Campground,FALSE
+1700,1,21,Canmore,Alberta,South & West of Canmore surrounding Spray Lakes Reservoir,http://www.albertaparks.ca/spray-valley/information-facilities/camping/spray-lakes-west/,29,0,Published,13,2015-12-12T03:58:52.2869069Z,spray-lakes-west-campground,,Spray Lakes West Campground,FALSE
+1549,1,21,Medicine Hat,Alberta,20 km southeast of Medicine Hat on Hwy. 1 & 30 km south on Hwy. 41,http://www.albertaparks.ca/parks/south/cypress-hills/information-facilities/camping/reesor-lake/,35.25,0,Published,16,2015-12-12T02:58:05.7110896Z,reesor-lake-campground,,Reesor Lake Campground,FALSE
+1742,1,21,Carseland,Alberta,2 km east and 2 km south of Carseland on Hwy. 24.,http://www.albertaparks.ca/wyndham-carseland/information-facilities/camping/wyndham-carseland/,29,0,Published,14,2015-12-12T04:04:57.6462273Z,wyndham-carseland-campground,,Wyndham-Carseland Campground,FALSE
+1618,1,21,Vulcan,Alberta,"20 km south of Vulcan on Hwy. 23, 16 km east on Hwy. 529 and 1 km south on an access road.",http://www.albertaparks.ca/little-bow/information-facilities/camping/little-bow/,29,0,Published,14,2015-12-12T04:07:20.6284363Z,little-bow-campground,,Little Bow Campground,FALSE
+1702,1,21,Lethbridge,Alberta,55 km southwest of Lethbridge on Hwy. 5 & 5 km northwest on Hwy. 505,http://www.albertaparks.ca/st-mary-reservoir/information-facilities/camping/st-mary-upper/,29,0,Published,13,2015-12-12T03:59:00.8017333Z,st-mary-upper-campground,,St. Mary Upper Campground,FALSE
+1681,1,21,Sundre,Alberta,60 km southwest of Sundre on Forestry Trunk Road (Hwy. 734),http://www.albertaparks.ca/red-deer-river/information-facilities/camping/red-deer-river-south/,29,0,Published,12,2015-12-12T04:26:11.2347542Z,red-deer-river-south-campground,,Red Deer River South Campground,FALSE
